@@ -1,3 +1,5 @@
+### Course completed. Archiving this repository. ###
+
 ### Introduction
 
 This second programming assignment will require you to write an R
